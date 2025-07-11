@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { login } from './authSlice';
+import { Link } from 'react-router-dom';
 import '../App.css';
 
 const Login = () => {
@@ -19,7 +20,7 @@ const Login = () => {
       <input type="email" required placeholder="Email" value={email} onChange={e => setEmail(e.target.value)} />
       <input type="password" required placeholder="Password" value={password} onChange={e => setPassword(e.target.value)} />
       <button type="submit">Login</button>
-      <p>Don't have an account? <a href="/register">Register</a></p>
+      <p>Don't have an account? <Link to="/register">Register</Link></p>
     </form>
   );
 };
