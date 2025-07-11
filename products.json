@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "price": 19.99,
+    "image": "https://i.ibb.co/RLspg00/TShirt.webp",
+    "category": "Men"
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Jeans",
+    "price": 39.99,
+    "image": "https://i.ibb.co/3yTmxCHh/shopping.webp ",
+    "category": "Men"
+  },
+  {
+    "id": 3,
+    "name": "Leather Jacket",
+    "price": 89.99,
+    "image": "https://i.ibb.co/6Stz7H2/nl9z6-512.webp",
+    "category": "Men"
+  },
+  {
+    "id": 4,
+    "name": "Sneakers",
+    "price": 59.99,
+    "image": "https://i.ibb.co/YB6tpWBT/shoese.jpg",
+    "category": "Men"
+  },
+  {
+    "id": 5,
+    "name": "Graphic T-Shirt",
+    "price": 24.99,
+    "image": "https://i.ibb.co/PG8p6c8n/Graphit-Tshirt.webp",
+    "category": "Women"
+  },
+  {
+    "id": 6,
+    "name": "High-Waisted Jeans",
+    "price": 42.99,
+    "image": "https://i.ibb.co/3yTmxCHh/shopping.webp",
+    "category": "Women"
+  },
+  {
+    "id": 7,
+    "name": "Denim Jacket",
+    "price": 74.99,
+    "image": "https://i.ibb.co/3yTmxCHh/shopping.webp   ",
+    "category": "Women"
+  },
+  {
+    "id": 8,
+    "name": "Running Shoes",
+    "price": 69.99,
+    "image": "https://i.ibb.co/YB6tpWBT/shoese.jpg",
+    "category": "Women"
+  },
+  {
+    "id": 9,
+    "name": "Sunglasses",
+    "price": 14.99,
+    "image": "https://i.ibb.co/TxwpbBCV/Sun-Glasses.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 10,
+    "name": "Leather Wallet",
+    "price": 29.99,
+    "image": "https://i.ibb.co/sJc3whRS/Leather-Wallet.webp",
+    "category": "Accessories"
+  },
+  {
+    "id": 11,
+    "name": "Backpack",
+    "price": 49.99,
+    "image": "https://i.ibb.co/gZ271FgY/BagPack.webp",
+    "category": "Accessories"
+  },
+  {
+    "id": 12,
+    "name": "Digital Watch",
+    "price": 99.99,
+    "image": "https://i.ibb.co/G482Kss0/Digitalwatch.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 13,
+    "name": "Formal Shirt",
+    "price": 34.99,
+    "image": "https://i.ibb.co/NgVPBg5T/men-formal-dress.jpg",
+    "category": "Men"
+  },
+  {
+    "id": 14,
+    "name": "Casual Dress",
+    "price": 54.99,
+    "image": "https://i.ibb.co/ccRsKvwW/casual.jpg",
+    "category": "Women"
+  },
+  {
+    "id": 15,
+    "name": "Running Shorts",
+    "price": 27.99,
+    "image": "https://i.ibb.co/YB6tpWBT/shoese.jpg",
+    "category": "Men"
+  },
+  {
+    "id": 16,
+    "name": "Winter Coat",
+    "price": 129.99,
+    "image": "https://i.ibb.co/XrMkkkpp/Wintercoat.webp",
+    "category": "Women"
+  },
+  {
+    "id": 17,
+    "name": "Sports Cap",
+    "price": 19.99,
+    "image": "https://i.ibb.co/tPPnGdZL/Sportcap.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 18,
+    "name": "Leather Belt",
+    "price": 22.99,
+    "image": "https://i.ibb.co/rf48ZMnd/Ladetbealt.webp",
+    "category": "Accessories"
+  },
+  {
+    "id": 19,
+    "name": "Ankle Boots",
+    "price": 79.99,
+    "image": "https://i.ibb.co/MyP81St6/Ancleboots.jpg",
+    "category": "Women"
+  },
+  {
+    "id": 20,
+    "name": "Chinos",
+    "price": 44.99,
+    "image": "https://i.ibb.co/Lz8sGMwx/cheanose.webp",
+    "category": "Men"
+  },
+  {
+    "id": 5,
+    "name": "Graphic T-Shirt",
+    "price": 24.99,
+    "image": "https://i.ibb.co/PG8p6c8n/Graphit-Tshirt.webp",
+    "category": "Women"
+  }
+]
